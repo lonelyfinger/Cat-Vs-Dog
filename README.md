@@ -7,6 +7,7 @@ go to url
 
 and The files provided here are large 
 Go to this site and download the necessary data.(train, test)
+"https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data"
 
 ### *please download tensorflow and keras
 because I used these modules
