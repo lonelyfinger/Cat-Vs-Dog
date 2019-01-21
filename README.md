@@ -12,4 +12,9 @@ Go to this site and download the necessary data.(train, test)
 ### *please download tensorflow and keras
 because I used these modules
 
+Author : jiyeong choe, jiyeongchoe3@gmail.com
+Supervisor : Na, In Seop, ypencil@hanmail.net
+Starting Project : 2019.1.7
+
+
 
